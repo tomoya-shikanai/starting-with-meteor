@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a807e434-4223-4264-9e5c-2697f9fc8d20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/imports/ui/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.meteor/packages" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.meteor/versions" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imports/ui/ContactForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/ContactForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imports/ui/ContactList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/imports/ui/ContactList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +58,8 @@
       <updated>1678242978948</updated>
       <workItem from="1678242980011" duration="13651000" />
       <workItem from="1678326896899" duration="600000" />
-      <workItem from="1678543192604" duration="3088000" />
+      <workItem from="1678543192604" duration="3789000" />
+      <workItem from="1679052362596" duration="2349000" />
     </task>
     <servers />
   </component>
